@@ -2,7 +2,7 @@
 ## Installation
 1. Install [Python 3.7.9](https://www.python.org/downloads/release/python-379/).
 2. Clone this repository: `git clone https://github.com/mucciz/django-jwt-auth.git`.
-3. `cd` into `conduit-django`: `cd dj-auth`.
+3. `cd` into `dj-auth`: `cd dj-auth`.
 4. Install [virtualenv](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/#installing-virtualenv).
 5. Create a new virtualenv called "env": `virtualenv env`.
 6. Activate the virtual environment: `source env/bin/activate`.
